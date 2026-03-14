@@ -6,25 +6,11 @@ margin: 0;
 }
 
 body {
-
-font-family: Arial, sans-serif;
-color: white;
-
-/* Background image with gradient overlay */
-
-background:
-linear-gradient(rgba(15,32,39,0.75), rgba(44,83,100,0.85)),
-url("bg.jpg");
-
+background-image: url("bg.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
-background-attachment: fixed;
-
-min-height: 100vh;
-
 }
-
 header{
 
 padding:40px;
